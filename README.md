@@ -3,6 +3,6 @@
 <p align='center'>
 I'm Sabbagh.
 </p>
-<p align='center'>For enquiries, reach out @ Afsabbagh9@gmail.com or over on <a href=https://twitter.com/Sabbaghh_">Twitter</a>.</p>
+<p align='center'>For enquiries, reach out @ Afsabbagh9@gmail.com or over on <a href="https://twitter.com/Sabbaghh_">Twitter</a>.</p>
 
 <h1 align='center'><i>React Awesome!</i></h1>
